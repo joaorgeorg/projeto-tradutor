@@ -29,7 +29,7 @@ function ouvirVoz() {
     reconhecimentoVoz.onresult = (evento) => {
         let textoTranscricao = evento.results[0][0].transcript
 
-        inputTexto.textContent = textoTranscricao
+        inputTexto.value = textoTranscricao
 
         traduzir()
 
