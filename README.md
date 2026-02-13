@@ -45,4 +45,8 @@ projeto-tradutor/
 3.  Execute o arquivo `index.html` em seu navegador (Recomendado: Google Chrome ou Edge para melhor compatibilidade com APIs de voz).
 4.  Permita o acesso ao microfone quando solicitado para usar a função de voz.
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 56247c156208fea6dcf6cb7a9482024823f97fea
