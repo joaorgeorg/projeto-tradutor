@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url("/img/mapa.png");
+    background-image: url("../projeto-tradutor/img/mapa.png");
 
     background-size: cover;
 
